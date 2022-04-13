@@ -192,3 +192,6 @@ section{
     z-index: -1;
     animation: animate_menu_hide 200ms  1;
 }
+.git_test{
+    font-size: 30px;
+}
